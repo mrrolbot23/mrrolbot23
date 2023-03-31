@@ -11,7 +11,7 @@ Aspiring Software Developer with a passion for learning and a commitment to exce
 * ✉️  You can contact me at [edwin@mrrolbot.com](mailto:edwin@mrrolbot.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Open-Source Projects
-* ⚡  IRON-MAN IS BETTER THAN BATMAN 😎
+* ⚡  BATMAN IS IRON-MAN'S SON 😎
 
 ### Skills
 
