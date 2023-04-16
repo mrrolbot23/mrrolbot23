@@ -9,8 +9,8 @@ Software Developer
 Aspiring Software Developer with a passion for learning and a commitment to excellence, I am excited to contribute to the ever-evolving world of technology. Always willing to adapt and provide support to my teammates to achieve common goals.
 
 * 🌍  I'm based in Seattle
-* 🖥️  See my portfolio at [MyPortfolio](https://www.mrrolbot.com)
-* ✉️  You can contact me at [edwin@mrrolbot.com](mailto:edwin@mrrolbot.com)
+* 🖥️  See my portfolio at [MyPortfolio](https://www.edwinroldan.dev)
+* ✉️  You can contact me at [edwin@mrrolbot.com](mailto:contact@edwinroldan.dev)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Open-Source Projects
 * ⚡  BATMAN IS IRON-MAN'S SON 😎
