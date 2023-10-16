@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4D16AQF9IbUJQA2Adw/profile-displaybackgroundimage-shrink_350_1400/0/1654568229261?e=1685577600&v=beta&t=kZjiMjvErBHL9lAEBmpKNnMyx_lIP-uj2ajIWCclgLQ"/>
+<img src="[https://media.licdn.com/dms/image/C4D16AQF9IbUJQA2Adw/profile-displaybackgroundimage-shrink_350_1400/0/1654568229261?e=1685577600&v=beta&t=kZjiMjvErBHL9lAEBmpKNnMyx_lIP-uj2ajIWCclgLQ](https://media.licdn.com/dms/image/C4D16AQF9IbUJQA2Adw/profile-displaybackgroundimage-shrink_200_800/0/1654568229261?e=2147483647&v=beta&t=N7D-GpnNKPquciApjHuWPgBo-UwmBfAQxiqme5okM68)"/>
 
 Hi <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.png" width=100/> My name is Edwin Roldan
 ====================================================================================================================================
